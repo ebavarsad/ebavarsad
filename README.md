@@ -19,5 +19,5 @@ current project ideas:
 3. bayesian refinement of expected radial velocities of stars using GAIA
 4. smiling friends rpg (once i get the licensing)
 5. variable star classification with machine learning
-6. time series forecasting
+6. time series forecasting with ARIMA
 
