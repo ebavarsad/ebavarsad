@@ -1,14 +1,23 @@
 
-To Access My Work follow these directories
+I'm glad you can make it here.  We have three public directories in this notebook:
 
-ebavarsad-> kaggle or milky way - > my work (click on code if using the app)
-.ipynb will display as .pdf if you open in browser
+- Kaggle: A bunch of data science projects, where I take my look at various kaggle datasets.
+
+- Milky Way: My research
+
+- student_research: notebooks that function as tutorials for students looking to explore public
+astronomical databases (GAIA & SDSS)
 
 This github displays various jupyter notebooks using data science tools
+
 
 I also have my own research, which I hope to extend into undergraduate research projects at the CC level.  
 Students will learn how to access various astronomical data bases to assist with their research, 
 with the goal of transfering to a high end astronomy program at the university level.
+
+
+The student_research folder contains notebook for students who are interested in accessing astronomical 
+databases.
 
 
 What you may find in this github::
